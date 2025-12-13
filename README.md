@@ -59,12 +59,12 @@
 ## 📈 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musa-arrow&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musa-arrow&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=musa-ok&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musa-ok&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musa-arrow&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musa-ok&theme=tokyonight" width="60%" />
 </p>
 
 ---
